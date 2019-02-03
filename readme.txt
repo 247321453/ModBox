@@ -4,6 +4,7 @@
 下载地址
 链接: https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA 提取码: 58xg
 
+检查更新：点击主界面的版本号
 
 申明：
 本项目使用了下面类库：
@@ -25,7 +26,7 @@
 clothes_id.txt		时装ID数据			对应路径：MOD盒子根目录/Optional/clothes_id.txt 
 weapon_id.txt		武器ID数据			对应路径：MOD盒子根目录/Optional/weapon_id.txt
 ModuleConfig.xml	MOD的安装配置文件	对应路径：MOD压缩包里面的根目录
-
+5.检查更新：点击主界面的版本号
 
 注意：
 1.第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
