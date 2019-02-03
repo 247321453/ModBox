@@ -1,3 +1,9 @@
+[Version]1.3.3[Version]
+
+下载地址
+链接: https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA 提取码: 58xg
+
+
 申明：
 本项目使用了下面类库：
 1.压缩库		SharpCompress		源码：https://github.com/adamhathcock/sharpcompress
@@ -25,8 +31,6 @@ ModuleConfig.xml	MOD的安装配置文件	对应路径：MOD压缩包里面的�
 2.需要安装.NET 4.5框架（win7要，win10大多数不用）下载地址：https://www.microsoft.com/zh-CN/download/details.aspx?id=42642
 3.这是测试版！
 4.如果上面有备份，请添加把上面的备份当成MOD添加，并且放在第一位，后面添加的自动覆盖上面
-5.检查更新
-链接: https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA 提取码: 58xg
 
 
 使用说明：
@@ -43,6 +47,9 @@ MOD手动排序:
 关闭MOD盒子，打开Mods/modlist.txt，自己修改顺序并保存为utf8。启动MOD盒子
 
 更新日志：
+1.3.3
+1.新增检查更新
+
 1.3.2
 1.修改文字
 2.默认路径的识别
