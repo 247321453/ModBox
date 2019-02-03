@@ -45,3 +45,5 @@ ModuleConfig.xml	MOD的安装配置文件	对应路径：MOD压缩包里面的�
 
 MOD手动排序:
 关闭MOD盒子，打开Mods/modlist.txt，自己修改顺序并保存为utf8。启动MOD盒子
+
+更新日志：查看changelog.txt文件
