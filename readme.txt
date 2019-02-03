@@ -1,10 +1,28 @@
 申明：
-本应用使用了miniblink框架，官网：http://miniblink.net/
+本项目使用了下面类库：
+1.压缩库		SharpCompress		源码：https://github.com/adamhathcock/sharpcompress
+2.gif图片库		WpfAnimatedGif		源码：https://github.com/XamlAnimatedGif/WpfAnimatedGif
+3.文件夹选择器	WPFFolderBrowser	源码：https://archive.codeplex.com/?p=wpffolderbrowser
+
+升级说明：
+1.删除exe和dll格式
+2.解压覆盖
+如果是旧版MOD盒子升级，请备份MOD盒子的文件夹的全部文件
+
+新版MOD盒子说明：
+
+1.不再复制mod包，请自己先放好位置，再安装。后面可以右键菜单修改路径
+2.盒子武器修改id，部分武器可能显示异常
+3.盒子的Id修改功能，支持一个MOD多套时装分别替换不同
+4.Optional文件夹，这个文件夹如果不需要可以删除，这是给有心人用的
+clothes_id.txt		时装ID数据			对应路径：MOD盒子根目录/Optional/clothes_id.txt 
+weapon_id.txt		武器ID数据			对应路径：MOD盒子根目录/Optional/weapon_id.txt
+ModuleConfig.xml	MOD的安装配置文件	对应路径：MOD压缩包里面的根目录
 
 
 注意：
 1.第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
-2.需要安装.NET 4.5框架
+2.需要安装.NET 4.5框架（win7要，win10大多数不用）下载地址：https://www.microsoft.com/zh-CN/download/details.aspx?id=42642
 3.这是测试版！
 4.如果上面有备份，请添加把上面的备份当成MOD添加，并且放在第一位，后面添加的自动覆盖上面
 5.检查更新
@@ -25,6 +43,66 @@ MOD手动排序:
 关闭MOD盒子，打开Mods/modlist.txt，自己修改顺序并保存为utf8。启动MOD盒子
 
 更新日志：
+1.3.2
+1.修改文字
+2.默认路径的识别
+
+1.3.1
+1.修复服装修改id的bug
+
+1.3.0
+1.修复时装id问题，导致时装修改都失败
+
+1.2.9
+1.修复移动MOD的bug
+
+1.2.8
+1.模型id修改完善：
+   支持服装的mrl3
+   规则：
+   1.如果不是.tex，则先改文件名，再改文件夹名字，
+   2.如果是.mrl3文件，修改里面的tex贴图路径（mod文件存在的贴图，不存在则不改），然后移动tex文件
+
+1.2.7
+1.完善武器id修改
+   规则：
+   1.如果是.mrl3  .mod3，则先改文件名，再改文件夹名字，
+   2.如果是.mrl3文件，里面的tex贴图路径，如果存在并且带有武器id，则修改id，并且修改mrl3，移动tex文件
+
+1.2.6
+1.UI微调
+2.全部文件精简到一个exe，建议保留pdb文件用于显示具体错误，帮助修复bug
+
+1.2.5
+1.修复部分复制mod文件失败
+2.支持手动安装的时候，指定路径
+
+1.20.4
+1.支持文件拖拽到盒子窗口，或者盒子图标安装(前提是盒子没启动，并且设置了路径)
+2.重新关联MOD安装包
+3.mod管理界面，如果需要刷新mod，请点击mod管理界面的狩技图片
+
+1.20.3
+1.MOD的预览图支持gif图片
+2.整合dll到exe
+
+1.20.2
+1.修复移动mod后，安装顺序不对
+2.修复图片显示方式
+
+1.20.1
+1.修复部分bug
+
+1.20.0
+1.支持选择文件的安装方式
+2.更换UI
+3.目前没有服务器，在线MOD功能是用不了的
+
+1.1.8
+1.修复拖文件的批量安装提示不对
+2.修复卸载mod，其他操作异常
+3.再次强调，支持选中mod，按方向上下移动顺序。
+
 1.1.7
 1.支持选中未启用的MOD，按上下方向键移动顺序。
 2.修改检查更新方式
