@@ -286,6 +286,13 @@
 							<xs:documentation>The list of files and folders that need to be installed for the plugin.</xs:documentation>
 						</xs:annotation>
 					</xs:element>
+				</xs:sequence>
+				<xs:sequence>
+					<xs:element name="files" type="fileList">
+						<xs:annotation>
+							<xs:documentation>The list of files and folders that need to be installed for the plugin.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
 					<xs:element name="conditionFlags" type="conditionFlagList" minOccurs="0">
 						<xs:annotation>
 							<xs:documentation>The list of condition flags to set if the plugin is in the appropriate state.</xs:documentation>
@@ -651,19 +658,19 @@
       <xs:documentation>Describes the configuration of a module.</xs:documentation>
 		</xs:annotation>
 		<xs:sequence>
-			<xs:element name="Version" type="xs:string">
-				<xs:annotation>
-					<xs:documentation>mod's version name</xs:documentation>
-				</xs:annotation>
-			</xs:element>
-			<xs:element name="Author" type="xs:string">
-				<xs:annotation>
-					<xs:documentation>mod author</xs:documentation>
-				</xs:annotation>
-			</xs:element>
       <xs:element name="moduleName" type="moduleTitle">
         <xs:annotation>
           <xs:documentation>The name of the module.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="Version" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>mod's version name</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="Author" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>mod author</xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element name="moduleImage" type="headerImage" minOccurs="0">
