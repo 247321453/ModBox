@@ -651,22 +651,12 @@
       <xs:documentation>Describes the configuration of a module.</xs:documentation>
 		</xs:annotation>
 		<xs:sequence>
-		   	<xs:element name="moduleId" use="optional" type="xs:int">
-				<xs:annotation>
-					<xs:documentation>mod's Id</xs:documentation>
-				</xs:annotation>
-			</xs:element>
-			<xs:element name="Version" use="optional" type="xs:string">
+			<xs:element name="Version" type="xs:string">
 				<xs:annotation>
 					<xs:documentation>mod's version name</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="VersionCode" use="optional" type="xs:int">
-				<xs:annotation>
-					<xs:documentation>mod's version code</xs:documentation>
-				</xs:annotation>
-			</xs:element>
-			<xs:element name="Author" use="optional" type="xs:string">
+			<xs:element name="Author" type="xs:string">
 				<xs:annotation>
 					<xs:documentation>mod author</xs:documentation>
 				</xs:annotation>
