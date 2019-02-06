@@ -1,5 +1,5 @@
 
-[VERSION]1.3.2|False|https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA#58xg[VERSION]
+[VERSION]1.3.3|False|https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA#58xg[VERSION]
 
 下载地址
 链接: https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA 提取码: 58xg
@@ -27,6 +27,14 @@ clothes_id.txt		时装ID数据			对应路径：MOD盒子根目录/Optional/clot
 weapon_id.txt		武器ID数据			对应路径：MOD盒子根目录/Optional/weapon_id.txt
 ModuleConfig.xml	MOD的安装配置文件	对应路径：MOD压缩包里面的根目录
 5.检查更新：点击主界面的版本号
+●●●●重点●●●
+6.MOD配置编辑：
+1.文件准备：新建一个文件夹（第一次需要，以后保留就不需要再新建），MOD的文件和图片自己放好（和mod无关的内容建议放在一起）。
+2.选择打开/新建，选择上面的文件夹，编辑界面的任何文件选择，都必须在选择的文件夹下面
+3.保存好配置文件，文件夹下面会多出一个ModuleConfig.xml，然后把当前文件夹的全部内容压缩，ModuleConfig.xml必须是压缩包的跟目录。
+4.MOD基础信息+N个安装步骤，每个步骤包含N个模块组，每个模块组包含N个模块
+5.编辑界面的编辑模块可以拖动位置
+
 
 注意：
 1.第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
