@@ -1,6 +1,8 @@
 
-[VERSION]1.3.6|False|https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA#58xg[VERSION]
+[VERSION]1.3.7|False|https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA#58xg[VERSION]
 
+
+官网：http://www.mhwmod.com/archives/537
 下载地址
 链接: https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA 提取码: 58xg
 
