@@ -1,10 +1,9 @@
 
-[VERSION]1.4.1|False|https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA#58xg[VERSION]
-
+[VERSION]1.4.1|False|https://pan.baidu.com/s/1Q3iAlKANDp_sHNO8XLYcMA#hp9y[VERSION]
 
 官网：http://www.mhwmod.com/archives/537
 下载地址
-链接: https://pan.baidu.com/s/1tPDg1i4soaR9NPz4lTpSUA 提取码: 58xg
+链接: https://pan.baidu.com/s/1Q3iAlKANDp_sHNO8XLYcMA 提取码: hp9y
 
 检查更新：点击主界面的版本号
 
