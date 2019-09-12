@@ -1,5 +1,5 @@
 
-[VERSION]1.4.2|False|https://pan.baidu.com/s/1Q3iAlKANDp_sHNO8XLYcMA#hp9y[VERSION]
+[VERSION]1.5.2|False|https://pan.baidu.com/s/1Q3iAlKANDp_sHNO8XLYcMA#hp9y[VERSION]
 
 官网：http://www.mhwmod.com/archives/537
 下载地址
