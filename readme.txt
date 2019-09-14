@@ -1,9 +1,9 @@
 
-[VERSION]1.5.4|False|https://pan.baidu.com/s/1Q3iAlKANDp_sHNO8XLYcMA#hp9y[VERSION]
+[VERSION]1.5.4|False|https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ#nk5f[VERSION]
 
 官网：http://www.mhwmod.com/archives/537
 下载地址
-链接: https://pan.baidu.com/s/1Q3iAlKANDp_sHNO8XLYcMA 提取码: hp9y
+链接: https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ 提取码: nk5f
 
 检查更新：点击主界面的版本号
 
