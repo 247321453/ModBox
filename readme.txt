@@ -1,17 +1,16 @@
 
-[VERSION]1.5.4|False|https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ#nk5f[VERSION]
+[VERSION]1.5.5.0|False|https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ#nk5f[VERSION]
 
 官网：http://www.mhwmod.com/archives/537
 下载地址
 链接: https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ 提取码: nk5f
 
-检查更新：点击主界面的版本号
+检查更新：在关于界面，新版本不再自动检查更新
 
 申明：
 本项目使用了下面类库：
 1.压缩库		SharpCompress		源码：https://github.com/adamhathcock/sharpcompress
-2.gif图片库		WpfAnimatedGif		源码：https://github.com/XamlAnimatedGif/WpfAnimatedGif
-3.文件夹选择器	WPFFolderBrowser	源码：https://archive.codeplex.com/?p=wpffolderbrowser
+2.UI库			MetroSet UI			源码：https://github.com/N-a-r-w-i-n/MetroSet-UI
 
 升级说明：
 1.删除exe和dll格式
@@ -23,10 +22,12 @@
 1.不再复制mod包，请自己先放好位置，再安装。后面可以右键菜单修改路径
 2.盒子武器修改id，部分武器可能显示异常
 3.盒子的Id修改功能，支持一个MOD多套时装分别替换不同
-4.Optional文件夹，这个文件夹如果不需要可以删除，这是给有心人用的
-clothes_id.txt		时装ID数据			对应路径：MOD盒子根目录/Optional/clothes_id.txt 
-weapon_id.txt		武器ID数据			对应路径：MOD盒子根目录/Optional/weapon_id.txt
-ModuleConfig.xml	MOD的安装配置文件	对应路径：MOD压缩包里面的根目录
+4.Optional文件夹说明
+language.txt			默认语言			武器/服装id也在里面
+language_zh-CN.txt		简体中文			武器/服装id也在里面
+ModuleConfig.xml		MOD的安装配置文件	对应路径：MOD压缩包里面的根目录
+
+
 5.检查更新：点击主界面的版本号
 ●●●●重点●●●
 6.MOD配置编辑：
@@ -38,7 +39,7 @@ ModuleConfig.xml	MOD的安装配置文件	对应路径：MOD压缩包里面的�
 
 
 注意：
-1.第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
+1.(如果没有nativePC文件，则不需要做这个步骤)第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
 2.需要安装.NET 4.5框架（win7要，win10大多数不用）下载地址：https://www.microsoft.com/zh-CN/download/details.aspx?id=42642
 3.这是测试版！
 4.如果上面有备份，请添加把上面的备份当成MOD添加，并且放在第一位，后面添加的自动覆盖上面
