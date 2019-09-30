@@ -1,5 +1,5 @@
 
-[VERSION]1.7.0.0|False|https://github.com/247321453/ModBox/releases/download/1.7.0.0/Modbox-1.7.0.0.zip[VERSION]
+[VERSION]1.7.1.0|False|https://github.com/247321453/ModBox/releases/download/1.7.1.0/Modbox-1.7.1.0.zip[VERSION]
 
 官网：http://www.mhwmod.com/archives/537
 下载地址1：
