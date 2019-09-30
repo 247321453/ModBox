@@ -4,8 +4,8 @@
 官网：http://www.mhwmod.com/archives/537
 下载地址1：
 链接: https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ 提取码: nk5f
-下载地质2：
-https://github.com/247321453/ModBox/releases/download/1.6.0/MOD.-1.6.0.0.zip
+下载页面：
+https://github.com/247321453/ModBox/releases
 
 检查更新：在关于界面，新版本不再自动检查更新
 
