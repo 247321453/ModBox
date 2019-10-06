@@ -42,9 +42,9 @@ ModuleConfig.xml		MOD的安装配置文件	对应路径：MOD压缩包里面的�
 
 注意：
 1.(如果没有nativePC文件，则不需要做这个步骤)第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
-2.需要安装.NET 4.5框架（win7要，win10大多数不用）下载地址：https://www.microsoft.com/zh-CN/download/details.aspx?id=42642
-3.这是测试版！
-4.如果上面有备份，请添加把上面的备份当成MOD添加，并且放在第一位，后面添加的自动覆盖上面
+2.需要安装.NET 4.6框架（win7要，win10大多数不用）下载地址：https://dotnet.microsoft.com/download/dotnet-framework/net46
+3.如果上面有备份，请添加把上面的备份当成MOD添加，并且放在第一位，后面添加的自动覆盖上面
+4.建议用win10 1803系统，win7遇到的问题不做修复
 
 
 使用说明：
