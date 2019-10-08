@@ -1,5 +1,5 @@
 
-[VERSION]1.7.1.0|False|https://github.com/247321453/ModBox/releases/download/1.7.1.0/Modbox-1.7.1.0.zip[VERSION]
+[VERSION]1.7.2.0|False|https://github.com/247321453/ModBox/releases/download/1.7.1.0/Modbox-1.7.1.0.zip[VERSION]
 
 官网：http://www.mhwmod.com/archives/537
 下载地址1：
@@ -42,7 +42,10 @@ ModuleConfig.xml		MOD的安装配置文件	对应路径：MOD压缩包里面的�
 
 注意：
 1.(如果没有nativePC文件，则不需要做这个步骤)第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
-2.需要安装.NET 4.6框架（win7要，win10大多数不用）下载地址：https://dotnet.microsoft.com/download/dotnet-framework/net46
+2.win7要需要安装.NET 4.5以上的版本
+下载地址：
+https://dotnet.microsoft.com/download/dotnet-framework/net45
+https://dotnet.microsoft.com/download/dotnet-framework/net46
 3.如果上面有备份，请添加把上面的备份当成MOD添加，并且放在第一位，后面添加的自动覆盖上面
 4.建议用win10 1803系统，win7遇到的问题不做修复
 
