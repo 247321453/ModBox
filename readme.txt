@@ -13,8 +13,8 @@ https://github.com/247321453/ModBox/releases/download/1.7.2.0/Modbox-1.7.2.0.zip
 
 申明：
 本项目使用了下面类库：
-1.压缩库		SharpCompress		源码：https://github.com/adamhathcock/sharpcompress
-2.UI库			MetroSet UI			源码：https://github.com/N-a-r-w-i-n/MetroSet-UI
+1.压缩库     SharpCompress     源码：https://github.com/adamhathcock/sharpcompress
+2.UI库      MetroSet UI        源码：https://github.com/N-a-r-w-i-n/MetroSet-UI
 
 升级说明：
 1.删除exe和dll格式
