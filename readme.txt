@@ -1,12 +1,12 @@
 
-[VERSION]1.7.2.0|False|https://github.com/247321453/ModBox/releases/download/1.7.2.0/Modbox-1.7.2.0.zip[VERSION]
+[VERSION]1.7.2.1|False|https://github.com/247321453/ModBox/releases/download/1.7.2.1/Modbox-1.7.2.1.zip[VERSION]
 
 官网：http://www.mhwmod.com
 发布页面：https://github.com/247321453/ModBox/releases
 下载地址1：
 链接: https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ 提取码: nk5f
 下载地址2：
-https://github.com/247321453/ModBox/releases/download/1.7.2.0/Modbox-1.7.2.0.zip
+https://github.com/247321453/ModBox/releases/download/1.7.2.1/Modbox-1.7.2.1.zip
 
 
 检查更新：在关于界面，新版本不再自动检查更新
