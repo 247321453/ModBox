@@ -1,12 +1,11 @@
 
-[VERSION]1.7.2.2|False|https://github.com/247321453/ModBox/releases/download/1.7.2.2/Modbox-1.7.2.2.zip[VERSION]
+[VERSION]2.0.0.0|False|https://github.com/247321453/ModBox/releases/download/2.0.0.0/Modbox-2.0.0.0.zip[VERSION]
 
 官网：http://www.mhwmod.com
 发布页面：https://github.com/247321453/ModBox/releases
-下载地址1：
+
+网盘分流：
 链接: https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ 提取码: nk5f
-下载地址2：
-https://github.com/247321453/ModBox/releases/download/1.7.2.2/Modbox-1.7.2.2.zip
 
 
 检查更新：在关于界面，新版本不再自动检查更新
@@ -46,10 +45,9 @@ ModuleConfig.xml		MOD的安装配置文件	对应路径：MOD压缩包里面的�
 1.(如果没有nativePC文件，则不需要做这个步骤)第一次使用请备份游戏目录的nativePC，并且压缩成zip/7z/rar
 2.win7要需要安装.NET 4.5以上的版本
 下载地址：
-https://dotnet.microsoft.com/download/dotnet-framework/net45
 https://dotnet.microsoft.com/download/dotnet-framework/net46
 3.如果上面有备份，请添加把上面的备份当成MOD添加，并且放在第一位，后面添加的自动覆盖上面
-4.建议用win10 1803系统，win7遇到的问题不做修复
+4.建议用win10 1803/1809/1909系统，win7遇到的问题不做修复
 
 
 使用说明：
