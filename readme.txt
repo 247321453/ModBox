@@ -5,7 +5,7 @@
 发布页面：https://github.com/247321453/ModBox/releases
 
 网盘分流：
-链接: https://pan.baidu.com/s/1wFNzz6b0uWUZIrdp6i1MnQ 提取码: nk5f
+链接: https://pan.baidu.com/s/1h7_Jt3Yxio06dGyx3HImcg 提取码: n29e
 
 
 检查更新：在关于界面，新版本不再自动检查更新
